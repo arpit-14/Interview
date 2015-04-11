@@ -1,4 +1,6 @@
-/*
+/* https://www.hackerearth.com/problem/algorithm/name-string-1/
+ * https://www.hackerearth.com/submission/1630786/
+ * 
 Description:
 Name string is a string consisting of letters "R","K" and "V". Today Oz wants to design a name string in a beautiful manner. Actually Oz cannot insert these three letters arbitrary anywhere ,he has to follow some rules to make the name string look beautiful. First thing is that the name string should consist of at most two different letters. Secondly adjacent letters in name string must be different.
 
@@ -24,6 +26,10 @@ Sample Output (Plaintext Link)
 Explanation
 For first sample :
 The longest name string possible is : VKVKV using 3 "V" letters and 2 "K" letters and its length is 5.
+
+*
+* + MetricStream
+*
 */
 
 package com.arpit.company.coupondunia;
@@ -87,6 +93,5 @@ class NameString {
             System.out.println(maxLength);
         }
 
-        //System.out.println("Hello World!");
     }
 }

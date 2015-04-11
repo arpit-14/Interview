@@ -1,4 +1,6 @@
-/*
+/* https://www.hackerearth.com/problem/algorithm/dipu-and-interesting-numbers-2/
+ * https://www.hackerearth.com/submission/1533113/  82/100
+ * 
 Little Dipu is a small kid and like all the other kids, he likes to play, but he plays with numbers (He is extraordinary you know). Now-a-days Dipu has some extra interest in odd numbers. So, he says that a number N is interesting if it has odd number of divisors. Now Dipu turns to you and asks you to tell him how many interesting numbers are there between two given numbers, L and R (both inclusive). 
 
 Input
